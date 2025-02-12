@@ -1,0 +1,15 @@
+#payment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 25px;
+    gap: 5px;
+}
+
+#total {
+    background-color: #A68358;
+    border-style: none;
+    color: #f2f2f2;
+    font-size: 16px;
+    /* text-align: right; */
+}

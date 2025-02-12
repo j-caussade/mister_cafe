@@ -1,0 +1,57 @@
+#catalog {
+    display: flex;
+    flex-direction: row;
+}
+
+aside {
+    width: 25%;
+    padding-bottom: 100%;
+    padding-top: 50px;
+    background-color: #648C0D;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    padding-left: 75px;
+    height: max-content;
+}
+
+fieldset {
+    border-style:none;
+}
+
+legend {
+    color: #F2F2F2;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    /* text-align: center; */
+}
+
+label {
+    color: #F2F2F2;
+    font-family: Inter;
+    font-size: 32px;
+}
+
+section {
+    /* display: flex;
+    flex-flow: row wrap; */
+    width: 75%;
+}
+
+#catalog_section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+/* section > div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+} */
+

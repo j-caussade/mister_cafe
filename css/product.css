@@ -1,0 +1,24 @@
+#coffee_01 {
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* text-align: center; */
+}
+
+#product {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    /* max-width: 400px; */
+}
+
+.txt_product {
+    width: 400px;
+}
