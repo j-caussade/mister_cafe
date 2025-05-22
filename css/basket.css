@@ -1,12 +1,13 @@
 #basket {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 50px;
-    margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 25px;
 }
 
-th, td {
-    padding: 20px;
-    text-align: center;
+th,
+td {
+  padding: 20px;
+  text-align: center;
 }
